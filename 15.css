@@ -1,0 +1,26 @@
+fieldset{
+    width: 400px;
+    margin: auto;
+}
+fieldset label{
+    display: table;
+}
+fieldset input{
+    margin: 5px;
+    border-radius: 15px;
+
+}
+
+form{
+    width: 500px;
+    background-image: url("121.jpg");
+    background-size: 100%;
+}
+.i{
+    display: inline-grid;
+}
+#as{
+    background: #fd2e62;
+    width: 400px;
+}
+
